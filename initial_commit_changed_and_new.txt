@@ -1,0 +1,139 @@
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   AndroidManifest.xml
+	modified:   res/menu/browser.xml
+	modified:   res/values-af/strings.xml
+	modified:   res/values-am/strings.xml
+	modified:   res/values-ar/strings.xml
+	modified:   res/values-bg/strings.xml
+	modified:   res/values-bn-rBD/strings.xml
+	modified:   res/values-ca/strings.xml
+	modified:   res/values-cs/strings.xml
+	modified:   res/values-da/strings.xml
+	modified:   res/values-de/strings.xml
+	modified:   res/values-el/strings.xml
+	modified:   res/values-en-rGB/strings.xml
+	modified:   res/values-en-rIN/strings.xml
+	modified:   res/values-es-rUS/strings.xml
+	modified:   res/values-es/strings.xml
+	modified:   res/values-et-rEE/strings.xml
+	modified:   res/values-fa/strings.xml
+	modified:   res/values-fi/strings.xml
+	modified:   res/values-fr/strings.xml
+	modified:   res/values-hi/strings.xml
+	modified:   res/values-hr/strings.xml
+	modified:   res/values-hu/strings.xml
+	modified:   res/values-in/strings.xml
+	modified:   res/values-it/strings.xml
+	modified:   res/values-iw/strings.xml
+	modified:   res/values-ja/strings.xml
+	modified:   res/values-ko/strings.xml
+	modified:   res/values-lt/strings.xml
+	modified:   res/values-lv/strings.xml
+	modified:   res/values-ms-rMY/strings.xml
+	modified:   res/values-nb/strings.xml
+	modified:   res/values-nl/strings.xml
+	modified:   res/values-pl/strings.xml
+	modified:   res/values-pt-rPT/strings.xml
+	modified:   res/values-pt/strings.xml
+	modified:   res/values-ro/strings.xml
+	modified:   res/values-ru/strings.xml
+	modified:   res/values-sk/strings.xml
+	modified:   res/values-sl/strings.xml
+	modified:   res/values-sr/strings.xml
+	modified:   res/values-sv/strings.xml
+	modified:   res/values-sw/strings.xml
+	modified:   res/values-th/strings.xml
+	modified:   res/values-tl/strings.xml
+	modified:   res/values-tr/strings.xml
+	modified:   res/values-uk/strings.xml
+	modified:   res/values-vi/strings.xml
+	modified:   res/values-zh-rCN/strings.xml
+	modified:   res/values-zh-rHK/strings.xml
+	modified:   res/values-zh-rTW/strings.xml
+	modified:   res/values-zu/strings.xml
+	modified:   res/values/strings.xml
+	modified:   res/xml/accessibility_preferences.xml
+	modified:   src/com/android/browser/AddBookmarkPage.java
+	modified:   src/com/android/browser/AutologinBar.java
+	modified:   src/com/android/browser/BaseUi.java
+	modified:   src/com/android/browser/BookmarkItem.java
+	modified:   src/com/android/browser/BookmarkUtils.java
+	modified:   src/com/android/browser/Bookmarks.java
+	modified:   src/com/android/browser/BookmarksLoader.java
+	modified:   src/com/android/browser/BreadCrumbView.java
+	modified:   src/com/android/browser/Browser.java
+	modified:   src/com/android/browser/BrowserActivity.java
+	modified:   src/com/android/browser/BrowserBookmarksPage.java
+	modified:   src/com/android/browser/BrowserHistoryPage.java
+	modified:   src/com/android/browser/BrowserSettings.java
+	modified:   src/com/android/browser/BrowserWebView.java
+	modified:   src/com/android/browser/BrowserWebViewFactory.java
+	modified:   src/com/android/browser/BrowserYesNoPreference.java
+	modified:   src/com/android/browser/ComboViewActivity.java
+	modified:   src/com/android/browser/Controller.java
+	modified:   src/com/android/browser/DataController.java
+	modified:   src/com/android/browser/DataUri.java
+	modified:   src/com/android/browser/DownloadHandler.java
+	modified:   src/com/android/browser/GoogleAccountLogin.java
+	modified:   src/com/android/browser/HistoryItem.java
+	modified:   src/com/android/browser/IntentHandler.java
+	modified:   src/com/android/browser/NavScreen.java
+	modified:   src/com/android/browser/NavTabScroller.java
+	modified:   src/com/android/browser/NavTabView.java
+	modified:   src/com/android/browser/NavigationBarBase.java
+	modified:   src/com/android/browser/NavigationBarPhone.java
+	modified:   src/com/android/browser/NavigationBarTablet.java
+	modified:   src/com/android/browser/NfcHandler.java
+	modified:   src/com/android/browser/PageDialogsHandler.java
+	modified:   src/com/android/browser/Performance.java
+	modified:   src/com/android/browser/PhoneUi.java
+	modified:   src/com/android/browser/PreloadRequestReceiver.java
+	modified:   src/com/android/browser/Tab.java
+	modified:   src/com/android/browser/TabControl.java
+	modified:   src/com/android/browser/TitleBar.java
+	modified:   src/com/android/browser/UploadHandler.java
+	modified:   src/com/android/browser/UrlBarAutoShowManager.java
+	modified:   src/com/android/browser/UrlHandler.java
+	modified:   src/com/android/browser/UrlInputView.java
+	modified:   src/com/android/browser/WallpaperHandler.java
+	modified:   src/com/android/browser/WebStorageSizeManager.java
+	modified:   src/com/android/browser/homepages/RequestHandler.java
+	modified:   src/com/android/browser/preferences/AccessibilityPreferencesFragment.java
+	modified:   src/com/android/browser/preferences/InvertedContrastPreview.java
+	modified:   src/com/android/browser/preferences/WebsiteSettingsFragment.java
+	modified:   src/com/android/browser/provider/BrowserProvider.java
+	modified:   src/com/android/browser/provider/BrowserProvider2.java
+	modified:   src/com/android/browser/provider/SnapshotProvider.java
+	modified:   src/com/android/browser/search/DefaultSearchEngine.java
+	modified:   src/com/android/browser/search/OpenSearchSearchEngine.java
+	modified:   src/com/android/browser/util/ThreadedCursorAdapter.java
+	modified:   src/com/android/browser/view/BookmarkExpandableView.java
+	modified:   src/com/android/browser/view/ScrollerView.java
+	modified:   src/com/android/browser/view/StopProgressView.java
+	modified:   src/com/android/browser/widget/BookmarkThumbnailWidgetService.java
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.gitignore
+	app/
+	build.gradle
+	gradle.properties
+	gradle/
+	gradlew
+	gradlew.bat
+	initial_commit_changed_and_new.txt
+	settings.gradle
+	src/android/
+	src/com/android/browser/EventLogTags.java
+	src/com/android/browser/LegacyWebSettingsCompat.java
+	src/com/android/browser/WebViewCompatibility.java
+	src/com/android/browser/compat/
+	src/com/android/browser/provider/BookmarkColumns.java
+	src/com/android/common/
+
+no changes added to commit (use "git add" and/or "git commit -a")

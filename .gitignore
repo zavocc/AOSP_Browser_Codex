@@ -1,0 +1,23 @@
+.gradle/
+.gradle-home/
+**/build/
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+
+# Local SDK config
+local.properties
+
+# Logs / local debug artifacts
+*.log
+browser_crash.txt
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.swp
+
+# Signing keys
+*.jks
+*.keystore
